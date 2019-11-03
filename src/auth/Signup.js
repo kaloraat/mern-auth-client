@@ -11,7 +11,7 @@ const Signup = () => {
         name: '',
         email: '',
         password: '',
-        buttonText: ''
+        buttonText: 'Submit'
     });
 
     const { name, email, password, buttonText } = values;
